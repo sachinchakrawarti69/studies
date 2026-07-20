@@ -1,8 +1,21 @@
 import sqlite3
 import pandas as pd
+import os
+
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+)
 
 
-DATABASE = "../../database/ethereum.db"
+DATABASE = os.path.join(
+    BASE_DIR,
+    "database",
+    "ethereum.db"
+)
 
 
 def load_ohlcv():
