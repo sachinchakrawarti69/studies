@@ -1,32 +1,46 @@
-/**
- * SQLite Connection
- */
-
 const path = require("path");
 const sqlite3 = require("sqlite3");
 const { open } = require("sqlite");
 
-let db = null;
+let db;
+
 
 async function connect() {
 
-    if (db) {
+    if(db){
         return db;
     }
 
+
+    const databasePath = path.join(
+        __dirname,
+        "../../../../database/ethereum.db"
+    );
+
+
+    console.log(
+        "SQLite Database:",
+        databasePath
+    );
+
+
     db = await open({
 
-        filename: path.join(
-            __dirname,
-            "../../../../database/ethereum.db"
-        ),
+        filename: databasePath,
 
         driver: sqlite3.Database
+
     });
 
-    console.log("Connected to SQLite");
+
+    console.log(
+        "SQLite Connected"
+    );
+
 
     return db;
+
 }
+
 
 module.exports = connect;
