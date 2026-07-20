@@ -2,6 +2,16 @@ import matplotlib.pyplot as plt
 
 from analysis.load_data import load_ohlcv
 
+import sys
+import os
+
+sys.path.append(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+)
 
 df = load_ohlcv()
 
