@@ -77,6 +77,20 @@ async function getLowestPrice(){
 
 
 
+async function getAllCandles(){
+
+    const db = await connect();
+
+
+    return await db.all(
+        `
+        SELECT *
+        FROM market_ohlcv
+        ORDER BY open_time ASC
+        `
+    );
+
+}
 module.exports = {
 
     getCount,
