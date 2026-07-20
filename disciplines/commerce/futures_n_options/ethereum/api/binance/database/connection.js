@@ -2,24 +2,24 @@ const path = require("path");
 const sqlite3 = require("sqlite3");
 const { open } = require("sqlite");
 
-let db;
+let db = null;
 
 
 async function connect() {
 
-    if(db){
+    if (db) {
         return db;
     }
 
 
     const databasePath = path.join(
         __dirname,
-        "../../../../database/ethereum.db"
+        "../../../database/ethereum.db"
     );
 
 
     console.log(
-        "SQLite Database:",
+        "Database Path:",
         databasePath
     );
 
@@ -33,13 +33,10 @@ async function connect() {
     });
 
 
-    console.log(
-        "SQLite Connected"
-    );
+    console.log("SQLite Connected");
 
 
     return db;
-
 }
 
 
