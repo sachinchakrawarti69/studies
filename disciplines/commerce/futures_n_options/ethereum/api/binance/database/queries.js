@@ -100,3 +100,15 @@ module.exports = {
     getLowestPrice
 
 };
+
+
+module.exports = {
+
+    getCount,
+    getLatest,
+    getLast7Days,
+    getHighestPrice,
+    getLowestPrice,
+    getAllCandles
+
+};
