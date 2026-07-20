@@ -1,17 +1,25 @@
+import sys
+import os
+
+
+# add python folder to path
+PYTHON_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.abspath(__file__)
+    )
+)
+
+
+sys.path.append(
+    PYTHON_DIR
+)
+
+
 import matplotlib.pyplot as plt
 
 from analysis.load_data import load_ohlcv
 
-import sys
-import os
 
-sys.path.append(
-    os.path.dirname(
-        os.path.dirname(
-            os.path.abspath(__file__)
-        )
-    )
-)
 
 df = load_ohlcv()
 
