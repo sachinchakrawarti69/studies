@@ -1,71 +1,88 @@
-/**
- * Database Queries
- */
-
 const connect = require("./connection");
 
-async function getAllCandles() {
+
+async function getCount(){
 
     const db = await connect();
 
-    return await db.all(
-
+    const result = await db.get(
         `
-
-        SELECT *
-
+        SELECT COUNT(*) AS total
         FROM market_ohlcv
-
-        ORDER BY open_time
-
         `
-
     );
+
+    return result.total;
 }
 
-async function getLatestCandle() {
+
+
+async function getLatest(){
 
     const db = await connect();
 
     return await db.get(
-
         `
-
         SELECT *
-
         FROM market_ohlcv
-
         ORDER BY open_time DESC
-
         LIMIT 1
-
         `
-
     );
 }
 
-async function countCandles() {
+
+
+async function getLast7Days(){
 
     const db = await connect();
 
-    const row = await db.get(
-
+    return await db.all(
         `
-
-        SELECT COUNT(*) AS total
-
+        SELECT *
         FROM market_ohlcv
-
+        ORDER BY open_time DESC
+        LIMIT 7
         `
-
     );
-
-    return row.total;
 }
+
+
+
+async function getHighestPrice(){
+
+    const db = await connect();
+
+    return await db.get(
+        `
+        SELECT MAX(high) AS highest_price
+        FROM market_ohlcv
+        `
+    );
+}
+
+
+
+async function getLowestPrice(){
+
+    const db = await connect();
+
+    return await db.get(
+        `
+        SELECT MIN(low) AS lowest_price
+        FROM market_ohlcv
+        `
+    );
+}
+
+
 
 module.exports = {
 
-    getAllCandles,
-    getLatestCandle,
-    countCandles
+    getCount,
+    getLatest,
+    getLast7Days,
+    getHighestPrice,
+    getLowestPrice
+
 };
