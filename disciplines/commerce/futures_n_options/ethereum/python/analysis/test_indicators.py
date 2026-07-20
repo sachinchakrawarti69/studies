@@ -1,6 +1,3 @@
-from load_data import load_ohlcv
-from indicator_pipeline import apply_indicators
-
 import os
 
 
@@ -33,22 +30,3 @@ df.to_csv(
 
 print("Saved:")
 print(DATASET_PATH)
-
-df = load_ohlcv()
-
-
-
-df = apply_indicators(df)
-
-
-
-print(df.tail())
-
-
-
-df.to_csv(
-    "../../datasets/ethereum_indicators.csv"
-)
-
-
-print("Indicators completed")
