@@ -3,7 +3,7 @@ import os
 
 
 # =====================================
-# Add python folder to import path
+# Python folder path
 # =====================================
 
 PYTHON_DIR = os.path.dirname(
@@ -12,9 +12,7 @@ PYTHON_DIR = os.path.dirname(
     )
 )
 
-sys.path.append(
-    PYTHON_DIR
-)
+sys.path.append(PYTHON_DIR)
 
 
 
@@ -25,7 +23,7 @@ from analysis.load_data import load_ohlcv
 
 
 # =====================================
-# Load Ethereum OHLCV Data
+# Load Data
 # =====================================
 
 df = load_ohlcv()
@@ -36,17 +34,13 @@ df = load_ohlcv()
 # Create Chart
 # =====================================
 
-plt.figure(
-    figsize=(14, 6)
-)
+plt.figure(figsize=(14, 6))
 
 
 plt.plot(
     df.index,
-    df["close"],
-    linewidth=1
+    df["close"]
 )
-
 
 
 plt.title(
@@ -60,15 +54,11 @@ plt.xlabel(
 
 
 plt.ylabel(
-    "Price (USDT)"
+    "Price USDT"
 )
 
 
-
-plt.grid(
-    True
-)
-
+plt.grid(True)
 
 
 plt.tight_layout()
@@ -76,13 +66,15 @@ plt.tight_layout()
 
 
 # =====================================
-# Output Path
+# Save inside ethereum/charts/daily
 # =====================================
 
+# python/charts/price_chart.py
+#          |
+#          ../../charts/daily
+
 PROJECT_DIR = os.path.dirname(
-    os.path.dirname(
-        PYTHON_DIR
-    )
+    PYTHON_DIR
 )
 
 
@@ -99,17 +91,12 @@ os.makedirs(
 )
 
 
-
 OUTPUT_FILE = os.path.join(
     OUTPUT_DIR,
     "eth_price_history.png"
 )
 
 
-
-# =====================================
-# Save Image
-# =====================================
 
 plt.savefig(
     OUTPUT_FILE,
@@ -118,15 +105,12 @@ plt.savefig(
 )
 
 
-
 plt.close()
 
 
 
 print("==============================")
-print(" ETH Price Chart Generated")
+print(" ETH PRICE CHART GENERATED")
 print("==============================")
-print(
-    "Saved:",
-    OUTPUT_FILE
-)
+print("Saved:")
+print(OUTPUT_FILE)
