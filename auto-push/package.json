@@ -1,0 +1,45 @@
+{
+  "name": "auto-push",
+  "version": "2.0.0",
+  "description": "Advanced auto-push with error handling and smart commit messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    
+    "git:status": "node scripts/git-commands.js status",
+    "git:add": "node scripts/git-commands.js add",
+    "git:commit": "node scripts/git-commands.js commit",
+    "git:push": "node scripts/git-commands.js push",
+    "git:pull": "node scripts/git-commands.js pull",
+    "git:log": "node scripts/git-commands.js log",
+    "git:branch": "node scripts/git-commands.js branch",
+    "git:checkout": "node scripts/git-commands.js checkout",
+    "git:merge": "node scripts/git-commands.js merge",
+    "git:stash": "node scripts/git-commands.js stash",
+    "git:stash-pop": "node scripts/git-commands.js stash-pop",
+    "git:reset": "node scripts/git-commands.js reset",
+    "git:clean": "node scripts/git-commands.js clean",
+    "git:diff": "node scripts/git-commands.js diff",
+    "git:remote": "node scripts/git-commands.js remote",
+    "git:fetch": "node scripts/git-commands.js fetch",
+    "git:rebase": "node scripts/git-commands.js rebase",
+    "git:tag": "node scripts/git-commands.js tag",
+    "git:all": "node scripts/git-commands.js all",
+    "git:help": "node scripts/git-commands.js help",
+    
+    "push": "node scripts/push-all.js",
+    "report": "node scripts/generate-report.js",
+    "test": "node scripts/test.js",
+    "status": "node scripts/status.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["git", "auto-push", "watcher", "automation"],
+  "author": "Your Name",
+  "license": "MIT"
+}
