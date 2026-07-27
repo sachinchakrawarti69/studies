@@ -367,3 +367,127 @@ Sharon writes a letter to her parents telling them:
 └──────────────────────────────────────
 
 
+
+### 2. Trigger Features Can Be Exploited
+
+| Exploiter Type | Method | Example |
+|----------------|--------|---------|
+| **Natural** | Mimicry in animal kingdom | Blenny, fireflies |
+| **Human** | Mimic human trigger features | Salespeople, marketers |
+| **Strategic** | Create trigger features | Artificial scarcity, inflated prices |
+
+### 3. The Contrast Principle Is Ubiquitous
+
+- Affects all perceptions, not just price
+- Operates unconsciously
+- Can be used intentionally for influence
+- The order of presentation matters
+
+### 4. There Is No "Blame"
+
+**Understanding the Victim's Perspective:**
+- People are acting rationally given their knowledge
+- Shortcuts have worked well historically
+- Exploitation is a trade-off of automatic responding
+- Even intelligent people are vulnerable
+
+---
+
+## Practical Applications
+
+### For Recognizing When You're Being Influenced
+
+1. **Question Automatic Responses**
+   - Am I responding automatically?
+   - What trigger is being activated?
+
+2. **Identify the Trigger**
+   - Price? Urgency? Authority? Scarcity?
+   - Who benefits from my automatic response?
+
+3. **Slow Down**
+   - Automatic responses work quickly
+   - Take time to evaluate
+
+4. **Consider the Opposite**
+   - What if the trigger feature was different?
+   - Would I still make the same decision?
+
+### For Ethical Persuasion
+
+1. **Be Honest About Intentions**
+2. **Provide Genuine Reasons**
+3. **Don't Create False Triggers**
+4. **Respect the Target's Autonomy**
+5. **Use Principles Responsibly**
+
+---
+
+## Chapter Terminology
+
+| Term | Definition |
+|------|------------|
+| **Fixed-Action Pattern** | Automatic behavioral sequence triggered by specific stimuli |
+| **Trigger Feature** | Specific cue that activates a fixed-action pattern |
+| **"Click, Whirr"** | Cialdini's term for the mechanical nature of automatic responding |
+| **Perceptual Contrast** | The tendency to perceive the second of two things as more different than it actually is |
+| **Mimic** | Organism that copies trigger features to exploit others |
+| **Ethology** | The study of animal behavior in natural environments |
+| **Psychophysics** | Study of the relationship between physical stimuli and perception |
+| **Heuristic** | Mental shortcut or rule of thumb |
+
+---
+
+## Review Questions
+
+### Self-Assessment Questions
+
+1. What is a fixed-action pattern and how does it differ from conscious decision-making?
+
+2. Why does the word "because" trigger automatic compliance even without a genuine reason?
+
+3. How did the jewelry store owner accidentally discover the "expensive = good" principle?
+
+4. What is the perceptual contrast principle and why is it important in persuasion?
+
+5. How do clothing stores use the contrast principle to increase sales?
+
+6. What makes the contrast principle particularly "undetectable" as a persuasion technique?
+
+7. How does the "Reader's Report" demonstrate the contrast principle?
+
+8. Why are automatic responses necessary despite their vulnerability to exploitation?
+
+9. How does the jujitsu metaphor apply to persuasion?
+
+10. What are the ethical implications of using these principles?
+
+### Application Questions
+
+1. **Identify a Trigger Feature:** In your daily life, what specific cues trigger automatic responses in you?
+
+2. **Analyze an Advertisement:** Find an ad that uses the contrast principle. How is it structured?
+
+3. **Personal Experience:** Recall a time when the contrast principle influenced a purchase you made.
+
+4. **Ethical Dilemma:** Is it ethical to use these principles in sales? Under what conditions?
+
+5. **Defense Strategy:** How would you defend yourself against the "expensive = good" shortcut?
+
+---
+
+## Key Quotes
+
+> *"Everything should be made as simple as possible, but not simpler."*
+> — Albert Einstein (epigraph)
+
+> *"Civilization advances by extending the number of operations we can perform without thinking about them."*
+> — Alfred North Whitehead
+
+> *"We can't be expected to recognize and analyze all the aspects in each person, event, and situation we encounter in even one day. We haven't the time, energy, or capacity for it."*
+
+> *"The exploiters can commission the power of these weapons for use against their targets while exerting little personal force."*
+
+---
+
+## Mind Map: Chapter 1 Concepts
