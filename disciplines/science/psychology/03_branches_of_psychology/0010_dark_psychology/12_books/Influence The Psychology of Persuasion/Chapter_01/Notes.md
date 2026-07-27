@@ -491,3 +491,91 @@ Sharon writes a letter to her parents telling them:
 ---
 
 ## Mind Map: Chapter 1 Concepts
+
+
+┌─────────────────────────────────────┐
+│ WEAPONS OF INFLUENCE │
+└─────────────────────────────────────┘
+│
+┌─────────────────────────────┼─────────────────────────────┐
+│ │ │
+▼ ▼ ▼
+┌───────────────────┐ ┌───────────────────┐ ┌───────────────────┐
+│ Fixed-Action │ │ Trigger Features │ │ "Click, Whirr" │
+│ Patterns │ │ │ │ │
+├───────────────────┤ ├───────────────────┤ ├───────────────────┤
+│ • Automatic │ │ • Specific cues │ │ • Automatic │
+│ • Rigid sequence │ │ • Simple features │ │ activation │
+│ • Universal │ │ • Activate FAPs │ │ • Mechanical │
+│ • Involuntary │ │ • Exploitable │ │ response │
+└───────────────────┘ └───────────────────┘ └───────────────────┘
+│ │ │
+└─────────────────────────────┼─────────────────────────────┘
+│
+▼
+┌─────────────────────────────────────┐
+│ PERCEPTUAL CONTRAST PRINCIPLE │
+├─────────────────────────────────────┤
+│ • Second appears more different │
+│ • Order of presentation matters │
+│ • Applies to all perceptions │
+│ • Used by sales professionals │
+└─────────────────────────────────────┘
+│
+┌─────────────────────────────┼─────────────────────────────┐
+│ │ │
+▼ ▼ ▼
+┌───────────────────┐ ┌───────────────────┐ ┌───────────────────┐
+│ Applications │ │ Exploitation │ │ Defenses │
+├───────────────────┤ ├───────────────────┤ ├───────────────────┤
+│ • Clothing sales │ │ • Natural mimics │ │ • Slow down │
+│ • Real estate │ │ • Human mimics │ │ • Question triggers│
+│ • Auto sales │ │ • Strategic │ │ • Verify claims │
+│ • Pricing │ │ manipulation │ │ • Think critically │
+└───────────────────┘ └───────────────────┘ └───────────────────┘
+
+text
+
+---
+
+## Chapter Connection
+
+### How This Chapter Sets Up the Book
+
+| Concept | Links to Future Chapters |
+|---------|--------------------------|
+| **Trigger Features** | All principles are trigger features |
+| **Automatic Responding** | Underlying mechanism for all principles |
+| **Exploitation** | How professionals use each principle |
+| **Ethical Use** | Foundation for ethical persuasion |
+
+### The Principles to Come
+
+1. **Reciprocation** - Triggered by gifts, favors, concessions
+2. **Commitment & Consistency** - Triggered by commitments
+3. **Social Proof** - Triggered by others' actions
+4. **Authority** - Triggered by status, expertise
+5. **Liking** - Triggered by similarity, attractiveness
+6. **Scarcity** - Triggered by limited availability
+7. **Unity** - Triggered by shared identity
+
+---
+
+## Further Reading & References
+
+### Primary Source
+Cialdini, R.B. (1984/2021). *Influence: The Psychology of Persuasion*. New York: Harper Business.
+
+### Research Referenced
+- Fox, M.W. (1974). "Concepts in Ethology" — Mother turkey experiments
+- Langer, E. (1978). "The Mindlessness of Ostensibly Thoughtful Action" — Xerox machine study
+- Kenrick, D.T., & Gutierres, S.E. (1980). "Contrast Effects and Judgments of Physical Attractiveness" — Media influence studies
+
+### For Deeper Understanding
+- Kahneman, D. (2011). *Thinking, Fast and Slow* — System 1 vs System 2 thinking
+- Ariely, D. (2008). *Predictably Irrational* — Human irrationality in decision-making
+- Goldstein, N.J., Martin, S.J., & Cialdini, R.B. (2008). *Yes! 50 Scientifically Proven Ways to Be Persuasive*
+
+---
+
+*End of Chapter 1 Study Notes*
