@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **nose ring** (also called a **Nathuni **) is one of the world's oldest forms of body adornment. Women wear nose rings for many reasons, including **cultural traditions, religious beliefs, personal identity, fashion, social customs, and self-expression**.
+The **nose ring** (also called a **Nathuni (नथुनी)**) is one of the world's oldest forms of body adornment. Women wear nose rings for many reasons, including **cultural traditions, religious beliefs, personal identity, fashion, social customs, and self-expression**.
 
 The reasons vary across cultures, religions, historical periods, and individuals. While some traditional beliefs associate nose piercing with health benefits, **scientific evidence supporting these medical claims is limited**.
 
