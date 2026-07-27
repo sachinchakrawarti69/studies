@@ -60,3 +60,215 @@ Her own chick without "cheep-cheep" → Mother may ignore or kill it
 Conclusion: The trigger feature (sound) overrides all other information
 
 
+
+---
+
+### Trigger Features
+
+#### Definition
+Specific features or cues that activate fixed-action patterns. Often only one small aspect of the whole stimulus.
+
+#### Why Trigger Features Work
+
+| Advantage | Explanation |
+|-----------|-------------|
+| **Efficiency** | Allows quick responses without analysis |
+| **Accuracy** | Usually correct in natural contexts |
+| **Energy Saving** | Conserves cognitive resources |
+| **Speed** | Faster than conscious deliberation |
+
+#### The Mimicry Phenomenon
+
+**Natural Exploiters:**
+
+| Organism | Method | Victim | Outcome |
+|----------|--------|-------|---------|
+| Photuris Firefly (female) | Mimics Photinus courtship signals | Photinus males | Lures males to death |
+| Saber-Toothed Blenny | Mimics cleaner fish dance | Grouper fish | Bites flesh, escapes |
+
+---
+
+## Human Automatic Responses
+
+### Why Humans Need Shortcuts
+
+**The Modern Environment:**
+- Extraordinarily complex stimulus environment
+- Most rapidly moving and complex in history
+- Information overload
+- Time constraints
+
+> *"We can't be expected to recognize and analyze all the aspects in each person, event, and situation we encounter in even one day. We haven't the time, energy, or capacity for it."*
+
+### The Benefits of Automatic Responding
+
+| Benefit | Description |
+|---------|-------------|
+| **Efficiency** | Faster decision-making |
+| **Cognitive Conservation** | Saves mental energy for important decisions |
+| **Functionality** | Works well most of the time |
+| **Necessity** | Without it, we would be overwhelmed |
+
+### The Cost of Automatic Responding
+
+**Vulnerability:** Automatic responses make us vulnerable to those who understand trigger features.
+
+> *"They make us terribly vulnerable to anyone who does know how they work."*
+
+---
+
+## The "Click, Whirr" Response
+
+### Definition
+Cialdini's term for the mechanical nature of automatic responding:
+- **Click** = The trigger feature is activated
+- **Whirr** = The automatic response plays out
+
+### The Harvard Xerox Machine Experiment
+
+**Researcher:** Ellen Langer
+
+**Method:** People waiting at a library copier were asked to cut in line.
+
+| Request Type | Wording | Compliance |
+|--------------|---------|------------|
+| **Request Only** | "Excuse me, I have five pages. May I use the Xerox machine?" | 60% |
+| **Request + Reason** | "Excuse me, I have five pages. May I use the Xerox machine because I'm in a rush?" | 94% |
+| **Request + "Because"** | "Excuse me, I have five pages. May I use the Xerox machine because I have to make some copies?" | 93% |
+
+#### Key Finding
+The word **"because"** alone triggered the automatic compliance response—even without providing a genuine reason.
+
+### The "Because" Trigger
+
+**Why This Works:**
+- People like to have reasons for what they do
+- The word "because" cues that a reason follows
+- This triggers automatic compliance
+- Content of the reason is often irrelevant
+
+---
+
+## The "Expensive = Good" Stereotype
+
+### The Jewelry Store Story
+
+**Situation:**
+- Friend's Indian jewelry store
+- Turquoise pieces not selling at original prices
+- Left note: "Everything in this display case, price × ½"
+- Employee misread as "price × 2"
+- **Result:** All items sold at double the original price
+
+### Analysis
+
+**The Stereotype:**
+- Learned rule: "You get what you pay for"
+- Translation: "Expensive = Good"
+- Trigger feature: Price alone
+- Shortcut: Price indicates quality
+
+**Why It Makes Sense:**
+1. Price is usually a reliable indicator of quality
+2. Most people don't have time to thoroughly evaluate every purchase
+3. This shortcut works most of the time
+4. In complex environments, it's often the most rational approach
+
+### The Exploitation
+
+**After the Accident:**
+- Owner intentionally raised prices on slow-moving items
+- Tourists (quality-hungry, low knowledge of turquoise) responded
+- High profit margins resulted
+
+**Common Strategy:**
+1. Mark item "Reduced from [inflated price]"
+2. Sell at original price
+3. Customers feel they're getting a bargain
+4. Contrast principle reinforces the "good deal" perception
+
+### The Drubeck Brothers' Tailor Shop
+
+**Method:**
+1. Salesman Sid feigns hearing problem
+2. Customer asks for suit price
+3. Sid calls to brother Harry in back
+4. Harry overstates price: "$42"
+5. Sid pretends not to hear: "$22"
+6. Customer buys quickly, thinking he's getting a bargain
+
+**Why It Works:**
+- Customer's "expensive = good" rule is activated
+- Thinks he's exploiting the salesman's "mistake"
+- The "bargain" prevents critical evaluation
+- Quick exit prevents discovery
+
+---
+
+## Perceptual Contrast Principle
+
+### Definition
+When two things are presented one after another, the second will seem more different from the first than it actually is.
+
+### Scientific Basis
+Well-established in **psychophysics** and applies to all perceptions.
+
+### Key Examples
+
+#### The Water Bucket Experiment
+| Order | First | Second | Perception |
+|-------|-------|--------|------------|
+| Hand in cold water → Room temp | Cold | Room temp | Room temp feels WARM |
+| Hand in hot water → Room temp | Hot | Room temp | Room temp feels COLD |
+| **Same water** | **Different** | **Perception** | **Different sensations** |
+
+#### The Attractiveness Studies
+
+**Arizona & Montana State Research:**
+- Participants rated average-looking person as less attractive after viewing models in magazines
+- Male dorm residents rated potential blind date less attractive after watching Charlie's Angels
+
+**Implication:** Media exposure to unrealistic beauty standards alters our perception of real people.
+
+---
+
+## Applications of the Contrast Principle
+
+### Clothing Sales
+
+**Strategy:** Sell the most expensive item FIRST
+
+**Why It Works:**
+
+| Order | Result |
+|-------|--------|
+| Suit first ($495) → Sweater ($95) | Sweater seems cheap |
+| Sweater first ($95) → Suit ($495) | Suit seems even more expensive |
+
+**Research Evidence:**
+> "Even when a man enters a clothing store with the express purpose of purchasing a suit, he will almost always pay more for whatever accessories he buys if he buys them after the suit purchase than before."
+
+**The Mistake:**
+- Many salespeople think selling cheap first is better
+- This works AGAINST the contrast principle
+- Expensive items seem even more expensive by comparison
+
+### Real Estate Sales
+
+**Phil's Strategy:**
+1. Show "setup" properties first (run-down homes at inflated prices)
+2. Then show the genuine property
+
+**The Effect:**
+- The genuine property looks much better by comparison
+- Buyers' "eyes light up"
+- More likely to purchase
+
+**Explanation:**
+- The contrast between the dumps and the genuine home
+- Real property seems like an amazing value
+- The effect is powerful and unconscious
+
+### Automobile Sales
+
+**The Strategy:**
