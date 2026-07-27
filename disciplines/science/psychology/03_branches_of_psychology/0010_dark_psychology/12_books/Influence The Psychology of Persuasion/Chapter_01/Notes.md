@@ -272,3 +272,90 @@ Well-established in **psychophysics** and applies to all perceptions.
 ### Automobile Sales
 
 **The Strategy:**
+
+
+Step 1: Negotiate final car price (e.g., $15,000)
+Step 2: Suggest options one at a time:
+
+FM radio: $100
+
+Tinted windows: $80
+
+Whitewall tires: $75
+
+Special trim: $60
+Step 3: Each option seems small compared to the $15,000 total
+Step 4: Customer ends up spending much more than planned
+
+
+**The "Trick":**
+- Options are presented separately
+- Each seems trivial in comparison
+- The total cost balloons unnoticed
+- Customer can't blame anyone but themselves
+
+---
+
+## The Jujitsu Metaphor
+
+### Comparing Persuasion to Jujitsu
+
+| Aspect | Jujitsu | Persuasion |
+|--------|---------|------------|
+| **Source of Power** | Opponent's strength, gravity, leverage | Existing psychological principles |
+| **Effort** | Minimal | Minimal |
+| **Strategy** | Use opponent's energy against them | Use principles to influence automatically |
+| **Result** | Defeat stronger opponents | Persuade even resistant targets |
+| **Visibility** | Subtle | Undetectable |
+
+### Why This Approach Is Powerful
+
+1. **Minimal Personal Effort**
+   - No need to be forceful or aggressive
+   - Principles do the work
+
+2. **Appears Natural**
+   - Victims think they made their own choices
+   - Compliance seems determined by natural forces
+
+3. **Blame Prevention**
+   - Victims blame themselves
+   - They don't see the manipulative influence
+
+---
+
+## The Reader's Report: Sharon's Letter
+
+### The Letter Summary
+Sharon writes a letter to her parents telling them:
+
+1. She got a concussion jumping from a burning dormitory
+2. She's living with a gas station attendant
+3. They're getting married
+4. She's pregnant
+5. She has an infection
+
+**Punchline:**
+> *"However, I am getting a 'D' in American History, and an 'F' in Chemistry and I want you to see those marks in their proper perspective."*
+
+### The Psychological Analysis
+
+**What Sharon Did:**
+1. Created a series of increasingly alarming revelations
+2. Used the contrast principle
+3. Made the bad grades seem trivial by comparison
+
+**Why It Worked:**
+- Parents were so relieved by the contrast
+- The "bad" news seemed like wonderful news
+- Automatic influence principle operated effectively
+
+**Result:**
+> *"Sharon may be failing chemistry, but she gets an 'A' in psychology."*
+
+---
+
+## Key Insights Summary
+
+### 1. Automatic Responding Is Normal and Necessary
+
