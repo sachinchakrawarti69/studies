@@ -58,6 +58,29 @@
 │   ├── how_to_balance_work_and_life.md
 │   └── how_to_develop_resilience.md
 │
+
+ 07_does/
+│   ├── does_makeup_affect_self_confidence.md
+│   ├── does_social_media_affect_body_image.md
+│   ├── does_menstruation_affect_mood.md
+│   ├── does_menopause_affect_mental_health.md
+│   ├── does_exercise_improve_mental_health.md
+│   ├── does_sleep_affect_hormones.md
+│   ├── does_stress_affect_menstrual_cycle.md
+│   ├── does_emotional_intelligence_improve_relationships.md
+│   ├── does_self_esteem_change_with_age.md
+│   ├── does_therapy_help_anxiety.md
+│   ├── does_pregnancy_affect_emotions.md
+│   ├── does_domestic_violence_affect_mental_health.md
+│   ├── does_body_language_affect_communication.md
+│   ├── does_culture_influence_gender_roles.md
+│   ├── does_childhood_affect_adult_relationships.md
+│   ├── does_financial_independence_affect_self_confidence.md
+│   ├── does_personality_change_over_time.md
+│   ├── does_loneliness_affect_health.md
+│   ├── does_communication_reduce_relationship_conflicts.md
+│   └── does_self_care_improve_wellbeing.md
+
 ├── glossary.md
 ├── README.md
 └── roadmap.md
