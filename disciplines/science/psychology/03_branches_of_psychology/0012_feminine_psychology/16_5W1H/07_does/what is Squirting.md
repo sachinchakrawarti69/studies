@@ -156,3 +156,159 @@ Sexual pleasure depends on many factors, including comfort, emotions, communicat
 # Summary
 
 Squirting is the release of fluid from the urethra during sexual activity experienced by some women. It is a natural bodily response, but it does not happen to everyone and is not required for sexual pleasure or orgasm.
+
+---
+
+# Pissing vs Squirting
+
+## Introduction
+
+**Pissing (urination)** and **squirting** both involve fluid leaving the body through the **urethra**, but they are different biological processes.
+
+The main difference is **purpose, control, and the body systems involved**.
+
+---
+
+# What Is Pissing (Urination)?
+
+**Pissing** is the normal process of removing urine from the body.
+
+## Purpose
+
+The purpose of urination is:
+
+- Removing waste products
+- Maintaining water and salt balance
+- Keeping the bladder healthy
+
+## How It Happens
+
+1. The kidneys filter the blood.
+2. Urine is produced.
+3. Urine travels to the bladder.
+4. The bladder stores urine.
+5. The brain signals the body when it is time to empty the bladder.
+6. Urine leaves through the urethra.
+
+---
+
+# What Is Squirting?
+
+**Squirting** is the release of fluid from the urethra during sexual arousal or orgasm in some women.
+
+It is a sexual response, not a waste-removal process.
+
+Possible sources of squirting fluid include:
+
+- Fluid from the bladder
+- Secretions from glands near the urethra (Skene's glands)
+- Other bodily fluids
+
+---
+
+# Main Differences
+
+| Feature | Pissing (Urination) | Squirting |
+|---|---|---|
+| Main purpose | Removes body waste | Part of sexual response |
+| Controlled by | Urinary system | Sexual response system |
+| Source | Bladder urine | Mainly urethral fluid release |
+| Trigger | Full bladder | Sexual arousal/stimulation |
+| Happens during | Normal daily activity | Sexual activity for some people |
+| Biological role | Waste removal | Sexual response variation |
+
+---
+
+# Fluid Differences
+
+## Urine
+
+Urine usually contains:
+
+- Water
+- Urea
+- Creatinine
+- Salts
+- Waste products
+
+Its color and smell vary depending on hydration and health.
+
+## Squirting Fluid
+
+Squirting fluid may contain:
+
+- Water
+- Urine components
+- Secretions from glands near the urethra
+
+Research shows that the bladder can contribute significantly to the fluid released during squirting.
+
+---
+
+# Can Squirting Feel Like Urination?
+
+Yes, some women describe the sensation as similar to needing to urinate.
+
+This happens because:
+
+- The bladder area can be involved.
+- The urethra is involved.
+- Pelvic muscles are active during sexual response.
+
+---
+
+# Can Someone Control Squirting?
+
+Control varies.
+
+Some people may sense it before it happens, while others may not.
+
+It is different from intentionally choosing to urinate.
+
+---
+
+# Is Squirting the Same as Peeing?
+
+No.
+
+Although both involve fluid leaving through the urethra, they are not considered the same process.
+
+A simple comparison:
+
+- **Peeing = body waste removal**
+- **Squirting = sexual response involving fluid release**
+
+---
+
+# Common Misunderstandings
+
+## Myth: Squirting Means Someone Urinated
+
+**Fact:**
+
+Squirting can involve bladder fluid, but it occurs in the context of sexual arousal and is not the same as normal urination.
+
+---
+
+## Myth: Every Woman Squirts
+
+**Fact:**
+
+Some women experience it, while others never do.
+
+Both are normal.
+
+---
+
+# Summary
+
+| | Pissing | Squirting |
+|-|-|-|
+| System | Urinary system | Sexual response + urinary structures |
+| Reason | Remove waste | Sexual response |
+| Location | Urethra | Urethra |
+| Normal? | Yes | Yes, for those who experience it |
+
+Both are natural body functions, but they happen for different reasons.
+
+----
