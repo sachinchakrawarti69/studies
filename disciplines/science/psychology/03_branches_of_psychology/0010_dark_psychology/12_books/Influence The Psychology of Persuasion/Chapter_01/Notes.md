@@ -359,3 +359,11 @@ Sharon writes a letter to her parents telling them:
 
 ### 1. Automatic Responding Is Normal and Necessary
 
+ We rely on mental shortcuts because: │
+│ • The world is too complex to analyze everything │
+│ • We don't have enough time or energy │
+│ • Usually these shortcuts work well │
+│ • Without them, we'd be frozen by analysis paralysis │
+└──────────────────────────────────────
+
+
