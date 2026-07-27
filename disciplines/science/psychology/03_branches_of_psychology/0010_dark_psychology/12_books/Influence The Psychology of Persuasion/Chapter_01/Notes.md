@@ -48,3 +48,15 @@ A fixed-action pattern is an automatic sequence of behaviors that, once triggere
 | Various Species | Courtship signals | Mating rituals |
 
 #### The Mother Turkey Experiment (M.W. Fox)
+
+Experiment Setup:
+
+Stuffed polecat (natural predator) → Mother attacks
+
+Same stuffed polecat with "cheep-cheep" recording → Mother accepts and protects
+
+Her own chick without "cheep-cheep" → Mother may ignore or kill it
+
+Conclusion: The trigger feature (sound) overrides all other information
+
+
