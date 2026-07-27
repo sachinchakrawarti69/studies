@@ -8,6 +8,44 @@ It is a natural variation of the human sexual response. Some women experience it
 
 ---
 
+<table>
+<tr>
+<td align="center">
+<img src="https://i.pinimg.com/control1/1200x/2b/cc/ef/2bccefe81c198dabba0ddd7ecc572380.jpg"
+     width="250"
+     height="350"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/control1/1200x/1c/b0/9f/1cb09fa473e107e16a03e79a904946af.jpg"
+     width="250"
+     height="350"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/1200x/a2/60/3b/a2603b5151f8cf9c57294d3ef6c796ba.jpg"
+     width="250"
+     height="350"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/a3/f6/7d/a3f67d2b48264fe97e22ade804dd8f2e.jpg"
+     width="250"
+     height="350"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+
+
+
+</tr>
+</table>
+
+---
+
 # Where Does the Fluid Come From?
 
 Research suggests that squirting fluid mainly comes from the **bladder** and is released through the **urethra**.
