@@ -8,6 +8,41 @@ Tony Stark is a billionaire industrialist, inventor, and engineer who uses advan
 
 ---
 
+
+<table>
+<tr>
+<td align="center">
+<img src="https://i.pinimg.com/1200x/7d/04/a5/7d04a5fbb9ffad62316776ea97679d35.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/55/7e/bd/557ebd7a08a5ff265e5c8cfb5e699dec.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/1200x/57/9d/2b/579d2b6e59d71b3812e226af86af6c03.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/1200x/de/2d/ca/de2dca29e501d6b1dbd0493eec080503.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+</tr>
+</table>
+---
+
 # Basic Information
 
 | Attribute | Details |

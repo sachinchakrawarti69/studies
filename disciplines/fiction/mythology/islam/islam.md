@@ -8,6 +8,43 @@ Today, Islam is one of the world's largest religions, with over 1.9 billion foll
 
 ---
 
+
+<table>
+<tr>
+<td align="center">
+<img src="https://i.pinimg.com/736x/95/68/53/9568532dd16808228dde95ea71b30db5.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/09/dc/45/09dc456608cd968b71d5ee8bf8752665.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/1200x/45/5a/40/455a4088b4c5bec609c8f1a975e1f0e3.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/43/9c/e5/439ce5f88fef9fab4d5d9cb1c5e44a7a.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+</tr>
+</table>
+
+
+
+
 # Basic Information
 
 | Attribute | Details |

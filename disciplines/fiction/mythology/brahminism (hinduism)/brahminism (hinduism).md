@@ -5,6 +5,42 @@
 **Hinduism** is one of the world's oldest living religions and a diverse family of religious, philosophical, and cultural traditions that originated in the Indian subcontinent. It has no single founder, central authority, or universally accepted creed. Hinduism encompasses a wide range of beliefs, practices, schools of philosophy, and devotional traditions.
 
 The term **Brahmanism** is primarily used by historians to describe the Vedic religious tradition centered on the authority of the Brahmin priesthood before and during the early development of classical Hinduism. Modern scholars generally distinguish Brahmanism from contemporary Hinduism, although the two are historically connected.
+---
+
+<table>
+<tr>
+<td align="center">
+<img src="https://i.pinimg.com/1200x/75/3d/45/753d45ba61f3228f18633d45b2eee608.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/d4/82/c4/d482c446ff2e4da22dcb65dee04cf323.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/03/f5/c5/03f5c5bcbeea0ac2e54a5e96a5073862.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+<td align="center">
+<img src="https://i.pinimg.com/736x/98/2b/63/982b63675ceb479d3677210ce85ffc3d.jpg"
+     width="350"
+     height="450"
+     style="object-fit:cover;border-radius:8px;">
+</td>
+
+
+
+</tr>
+</table>
 
 ---
 
