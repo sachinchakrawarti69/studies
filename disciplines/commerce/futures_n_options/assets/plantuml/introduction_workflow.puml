@@ -1,0 +1,13 @@
+@startuml
+title How Derivatives Work
+
+rectangle "Underlying Asset" as UA
+rectangle "Price Changes" as PC
+rectangle "Derivative Contract" as DC
+rectangle "Profit / Loss" as PL
+
+UA --> PC
+PC --> DC
+DC --> PL
+
+@enduml
