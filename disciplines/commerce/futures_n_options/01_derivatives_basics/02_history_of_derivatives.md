@@ -52,34 +52,33 @@ To reduce this uncertainty, both parties agreed on a price in advance.
 This agreement became an early form of a derivative contract.
 
 ---
-
-# Evolution of Derivatives
+## Evolution of Derivatives
 
 ```mermaid
-timeline
-    title Evolution of Derivatives
+flowchart LR
 
-    2000 BC : Ancient Mesopotamia
-             : Early forward agreements
-
-    600 BC : Ancient Greece
-            : Agricultural trading contracts
-
-    1600s : Rice Futures in Japan
-
-    1848 : Chicago Board of Trade (CBOT)
-
-    1972 : Financial Futures Introduced
-
-    1973 : Black-Scholes Option Pricing Model
-
-    1980s : Rapid Growth of Derivatives
-
-    2000 : NSE launches derivatives in India
-
-    Present : Global Electronic Derivatives Markets
+A["🏺 2000 BC<br/><b>Ancient Mesopotamia</b><br/>Early forward agreements between merchants and farmers to lock future prices of agricultural goods."]
+-->
+B["🏛️ 600 BC<br/><b>Ancient Greece</b><br/>Merchants used contracts for olive oil, wine, and grain to reduce price uncertainty."]
+-->
+C["🍚 1730<br/><b>Dojima Rice Exchange (Japan)</b><br/>One of the world's first organized futures markets with standardized rice contracts."]
+-->
+D["🌾 1848<br/><b>Chicago Board of Trade (CBOT)</b><br/>Established standardized grain futures, reducing counterparty risk and improving market liquidity."]
+-->
+E["📈 1972<br/><b>Chicago Mercantile Exchange (CME)</b><br/>Introduced the first financial futures, including foreign currency futures."]
+-->
+F["🧮 1973<br/><b>Black–Scholes Model</b><br/>Revolutionized option pricing and accelerated the growth of options trading."]
+-->
+G["🏢 1980s–1990s<br/><b>Global Expansion</b><br/>Rapid growth of stock index, interest rate, currency, and commodity derivatives worldwide."]
+-->
+H["🇮🇳 2000<br/><b>National Stock Exchange (NSE)</b><br/>Launched Nifty Index Futures, marking the beginning of India's organized exchange-traded derivatives market."]
+-->
+I["📊 2001<br/><b>Expansion in India</b><br/>Introduction of Index Options, Stock Options, and Stock Futures."]
+-->
+J["💻 2010s<br/><b>Electronic & Algorithmic Trading</b><br/>High-speed trading, online platforms, and sophisticated risk management became standard."]
+-->
+K["🌍 Present Day<br/><b>Global Derivatives Market</b><br/>Trillions of dollars traded daily across equities, commodities, currencies, interest rates, energy, and digital assets on regulated exchanges."]
 ```
-
 ---
 
 # Ancient Mesopotamia (Around 2000 BC)
