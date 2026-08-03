@@ -57,28 +57,34 @@ This agreement became an early form of a derivative contract.
 ```mermaid
 flowchart LR
 
-A["🏺 2000 BC<br/><b>Ancient Mesopotamia</b><br/>Early forward agreements between merchants and farmers to lock future prices of agricultural goods."]
--->
-B["🏛️ 600 BC<br/><b>Ancient Greece</b><br/>Merchants used contracts for olive oil, wine, and grain to reduce price uncertainty."]
--->
-C["🍚 1730<br/><b>Dojima Rice Exchange (Japan)</b><br/>One of the world's first organized futures markets with standardized rice contracts."]
--->
-D["🌾 1848<br/><b>Chicago Board of Trade (CBOT)</b><br/>Established standardized grain futures, reducing counterparty risk and improving market liquidity."]
--->
-E["📈 1972<br/><b>Chicago Mercantile Exchange (CME)</b><br/>Introduced the first financial futures, including foreign currency futures."]
--->
-F["🧮 1973<br/><b>Black–Scholes Model</b><br/>Revolutionized option pricing and accelerated the growth of options trading."]
--->
-G["🏢 1980s–1990s<br/><b>Global Expansion</b><br/>Rapid growth of stock index, interest rate, currency, and commodity derivatives worldwide."]
--->
-H["🇮🇳 2000<br/><b>National Stock Exchange (NSE)</b><br/>Launched Nifty Index Futures, marking the beginning of India's organized exchange-traded derivatives market."]
--->
-I["📊 2001<br/><b>Expansion in India</b><br/>Introduction of Index Options, Stock Options, and Stock Futures."]
--->
-J["💻 2010s<br/><b>Electronic & Algorithmic Trading</b><br/>High-speed trading, online platforms, and sophisticated risk management became standard."]
--->
-K["🌍 Present Day<br/><b>Global Derivatives Market</b><br/>Trillions of dollars traded daily across equities, commodities, currencies, interest rates, energy, and digital assets on regulated exchanges."]
+A["2000 BC<br/>Mesopotamia"]
+--> B["600 BC<br/>Greece"]
+--> C["1730<br/>Japan"]
+--> D["1848<br/>CBOT"]
+--> E["1972<br/>CME"]
+--> F["1973<br/>Black-Scholes"]
+--> G["1980s–90s<br/>Global Growth"]
+--> H["2000<br/>NSE India"]
+--> I["2001<br/>F&O Expansion"]
+--> J["2010s<br/>Electronic Trading"]
+--> K["Present<br/>Global Market"]
 ```
+
+### Timeline Details
+
+| Year | Event | Significance |
+|------|-------|--------------|
+| **2000 BC** | Ancient Mesopotamia | Early forward agreements between merchants and farmers to lock future prices. |
+| **600 BC** | Ancient Greece | Contracts used in olive oil, grain, and wine trading. |
+| **1730** | Dojima Rice Exchange (Japan) | One of the first organized futures exchanges. |
+| **1848** | Chicago Board of Trade (CBOT) | Standardized futures contracts and centralized trading. |
+| **1972** | Chicago Mercantile Exchange (CME) | Introduced financial futures, including currency futures. |
+| **1973** | Black–Scholes Model | Mathematical model that transformed option pricing. |
+| **1980s–1990s** | Global Expansion | Growth of equity, currency, interest rate, and commodity derivatives. |
+| **2000** | NSE India | Nifty Index Futures launched in India. |
+| **2001** | F&O Expansion | Index Options, Stock Options, and Stock Futures introduced. |
+| **2010s** | Electronic Trading | Algorithmic and high-frequency trading became common. |
+| **Present** | Modern Derivatives Market | Trillions of dollars traded daily across global exchanges. |
 ---
 
 # Ancient Mesopotamia (Around 2000 BC)
