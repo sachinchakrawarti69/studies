@@ -57,6 +57,7 @@ MTM ensures:
 
 # Futures Settlement Flow
 
+```mermaid
 flowchart TD
 
 A["Open Futures Position"]
@@ -78,7 +79,7 @@ F --> J["Debit Margin Account"]
 G --> I
 H --> J
 
-style A fill:#1E40AF,color:#ffffff
+style A fill:#1E40AF,color:#ffffff,stroke:#0F172A
 style B fill:#16A34A,color:#ffffff
 style C fill:#9333EA,color:#ffffff
 style D fill:#F59E0B,color:#000000
@@ -88,6 +89,7 @@ style G fill:#0891B2,color:#ffffff
 style H fill:#DC2626,color:#ffffff
 style I fill:#16A34A,color:#ffffff
 style J fill:#DC2626,color:#ffffff
+```
 ---
 
 # How MTM Works
