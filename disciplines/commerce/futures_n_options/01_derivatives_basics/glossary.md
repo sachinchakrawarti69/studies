@@ -1,9 +1,13 @@
-@startuml
-actor Trader
+digraph G{
 
-Trader -> Broker
+Derivative
 
-Broker -> Exchange
+Derivative->Forward
 
-Exchange --> Trader
-@enduml
+Derivative->Futures
+
+Derivative->Options
+
+Derivative->Swaps
+
+}
