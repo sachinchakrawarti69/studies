@@ -37,6 +37,19 @@ Although there are many derivative products available today, almost all of them 
 # Classification of Derivatives
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "primaryColor": "#2563eb",
+    "primaryTextColor": "#ffffff",
+    "primaryBorderColor": "#1d4ed8",
+    "lineColor": "#64748b",
+    "fontSize": "16px",
+    "textColor": "#111827",
+    "background": "#ffffff"
+  }
+}}%%
+
 mindmap
   root((Derivatives))
     Forward Contracts
