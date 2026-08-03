@@ -1,11 +1,9 @@
-> [!NOTE]
-> Futures are standardized.
+@startuml
+actor Trader
 
-> [!TIP]
-> Hedging reduces risk.
+Trader -> Broker
 
-> [!WARNING]
-> Leverage increases losses.
+Broker -> Exchange
 
-> [!IMPORTANT]
-> Margin calls are compulsory.
+Exchange --> Trader
+@enduml
