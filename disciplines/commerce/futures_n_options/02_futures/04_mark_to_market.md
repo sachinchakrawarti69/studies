@@ -57,8 +57,37 @@ MTM ensures:
 
 # Futures Settlement Flow
 
-<img src="../assets/mermaid/mtm_workflow.svg" width="100%" alt="Mark to Market Workflow">
+flowchart TD
 
+A["Open Futures Position"]
+--> B["Day End Closing Price"]
+
+B --> C["Compare With Previous Price"]
+
+C --> D{"Price Movement"}
+
+D -->|Price Goes Up| E["Long Position Profit"]
+D -->|Price Goes Down| F["Long Position Loss"]
+
+D -->|Price Goes Down| G["Short Position Profit"]
+D -->|Price Goes Up| H["Short Position Loss"]
+
+E --> I["Credit Margin Account"]
+F --> J["Debit Margin Account"]
+
+G --> I
+H --> J
+
+style A fill:#1E40AF,color:#ffffff
+style B fill:#16A34A,color:#ffffff
+style C fill:#9333EA,color:#ffffff
+style D fill:#F59E0B,color:#000000
+style E fill:#0891B2,color:#ffffff
+style F fill:#DC2626,color:#ffffff
+style G fill:#0891B2,color:#ffffff
+style H fill:#DC2626,color:#ffffff
+style I fill:#16A34A,color:#ffffff
+style J fill:#DC2626,color:#ffffff
 ---
 
 # How MTM Works
