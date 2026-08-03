@@ -1,3 +1,11 @@
+# Major Uses of Derivatives
+
+> [!TIP]
+> The six primary uses of derivatives are illustrated below.
+
+![[uses_of_derivatives.excalidraw]]
+
+---
                           USES OF DERIVATIVES
                                    │
         ┌──────────────┬──────────────┬──────────────┐
