@@ -72,6 +72,7 @@ That contract is a **derivative**.
 
 # How Derivatives Work
 
+<img src="images/introduction_workflow.svg" width="100%">
 
 Whenever the price of the underlying asset changes, the derivative's value also changes.
 ---
