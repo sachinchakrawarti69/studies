@@ -1,3 +1,5 @@
 # Dependencies
 node_modules/
 
+# Generated log files
+logs/*
