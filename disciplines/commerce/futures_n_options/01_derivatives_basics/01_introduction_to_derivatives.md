@@ -72,7 +72,7 @@ That contract is a **derivative**.
 
 # How Derivatives Work
 
-<img src="../assets/mermaid/introduction_workflow.svg" 
+<img src="../assets/mermaid/introduction_workflow.png"
      alt="How Derivatives Work"
      width="100%">
 
