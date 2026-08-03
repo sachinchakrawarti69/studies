@@ -72,7 +72,7 @@ That contract is a **derivative**.
 
 # How Derivatives Work
 
-<img src="images/introduction_workflow.svg" width="100%">
+<img src="../assets/mermaid/introduction_workflow.svg" width="100%" alt="How Derivatives Work">
 
 Whenever the price of the underlying asset changes, the derivative's value also changes.
 ---
@@ -373,4 +373,4 @@ In the next chapter, you'll learn:
 - How derivatives originated.
 - Evolution from agricultural markets to modern financial exchanges.
 - Growth of derivatives in India and globally.
-- Role of NSE, BSE, CME, and other major exchanges.
+- Role of NSE, BSE, CME, and other major exchanges.s
