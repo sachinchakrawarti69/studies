@@ -72,12 +72,9 @@ That contract is a **derivative**.
 
 # How Derivatives Work
 
-<img src="../assets/mermaid/introduction_workflow.svg" width="100%">
-
-```
+<img src="../assets/mermaid/introduction_workflow.svg" width="100%" alt="How Derivatives Work">
 
 Whenever the price of the underlying asset changes, the derivative's value also changes.
-
 ---
 
 # Real-Life Example
