@@ -72,15 +72,7 @@ That contract is a **derivative**.
 
 # How Derivatives Work
 
-```mermaid
-flowchart LR
-
-A[Underlying Asset]
---> B[Price Changes]
-
-B --> C[Derivative Contract]
-
-C --> D[Profit or Loss]
+![How Derivatives Work](../assets/mermaid/introduction_workflow.svg)
 ```
 
 Whenever the price of the underlying asset changes, the derivative's value also changes.
