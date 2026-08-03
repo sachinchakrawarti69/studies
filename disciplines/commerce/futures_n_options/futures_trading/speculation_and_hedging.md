@@ -1,1 +1,0 @@
-# Speculation and Hedging 
